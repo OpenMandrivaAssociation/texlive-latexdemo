@@ -1,6 +1,6 @@
 Name:		texlive-latexdemo
-Version:	55265
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Demonstrate LaTeX code with its resulting output
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latexdemo
