@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Demonstrate LaTeX code with its resulting output
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latexdemo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latexdemo
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latexdemo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latexdemo.doc.r%{version}.tar.xz
